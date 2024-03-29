@@ -1,3 +1,5 @@
+package bean;
+
 import jakarta.faces.bean.ManagedBean;
 import jakarta.faces.bean.ViewScoped;
 import java.io.Serializable;
